@@ -20,7 +20,7 @@ Welcome to the early version of my CV Website! This project showcases my skills 
 - Responsive layout for optimal viewing on various devices.
 
 ## Live Demo
-You can explore the live demo of the website [here](https://dianamurariu.github.io/CV_website/).
+You can explore the live demo of the website [here](https://dianamurariu.github.io/CV_website/){:target="_blank"}.
 
 ## Sections
 
