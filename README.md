@@ -46,9 +46,3 @@ The website is designed to be responsive, ensuring a seamless experience across 
 1. Clone the repository.
 2. Open the `index.html` file in your preferred web browser.
 3. Explore the different sections to get to know me better.
-
-## Contributing
-If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
-
-## License
-This project is licensed under the [MIT License](LICENSE).
