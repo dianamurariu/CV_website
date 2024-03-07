@@ -2,13 +2,13 @@
 
 Welcome to the early version of my CV Website! This project showcases my skills in HTML and CSS, providing a glimpse into my professional background, skills, and achievements.
 
+## Live Demo
+You can explore the live demo of the website <a href="https://dianamurariu.github.io/CV_website/" target="_blank">here</a>.
+
 ## Features
 - Clean and professional design.
 - Sections for Services, Portfolio, Recommendations, About Me, and Contact.
 - Responsive layout for optimal viewing on various devices.
-
-## Live Demo
-You can explore the live demo of the website <a href="https://dianamurariu.github.io/CV_website/" target="_blank">here</a>.
 
 ## Sections
 
