@@ -2,18 +2,6 @@
 
 Welcome to the early version of my CV Website! This project showcases my skills in HTML and CSS, providing a glimpse into my professional background, skills, and achievements.
 
-## Table of Contents
-- [Features](#features)
-- [Live Demo](#live-demo)
-- [Sections](#sections)
-  - [Services](#services)
-  - [Portfolio](#portfolio)
-  - [Recommendation](#recommendation)
-  - [About Me](#about-me)
-  - [Contact](#contact)
-- [Responsive Design](#responsive-design)
-- [Usage](#usage)
-
 ## Features
 - Clean and professional design.
 - Sections for Services, Portfolio, Recommendations, About Me, and Contact.
